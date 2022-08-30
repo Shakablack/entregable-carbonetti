@@ -52,7 +52,7 @@ header p span {
   text-align: center;
 }
 
-.producto h5 span{
+.producto h5 span.agotado{
   background-color: rgb(255, 178, 178);
   padding: 3px;
   font-weight: lighter;
